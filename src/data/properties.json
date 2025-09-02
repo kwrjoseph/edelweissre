@@ -1,0 +1,447 @@
+[
+  {
+    "id": "1",
+    "title": "Elegante Trilocale in Centro Storico",
+    "address": "Via Roma 123, Milano, MI, Italia",
+    "city": "Milano",
+    "region": "Lombardia",
+    "propertyType": "Appartamento",
+    "contractType": "Vendita",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "area": 120,
+    "coordinates": {
+      "lat": 45.4642,
+      "lng": 9.1900
+    },
+    "images": [
+      "/images/property1-1.jpg",
+      "/images/property1-2.jpg",
+      "/images/property1-3.jpg"
+    ],
+    "badges": ["IN EVIDENZA", "IN VENDITA"],
+    "featured": true,
+    "isNew": false,
+    "price": 450000,
+    "priceHidden": true,
+    "energyRating": "A+"
+  },
+  {
+    "id": "2",
+    "title": "Villa con Giardino Panoramico",
+    "address": "Via delle Rose 45, Firenze, FI, Italia",
+    "city": "Firenze",
+    "region": "Toscana",
+    "propertyType": "Villa",
+    "contractType": "Vendita",
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "area": 280,
+    "coordinates": {
+      "lat": 43.7696,
+      "lng": 11.2558
+    },
+    "images": [
+      "/images/property2-1.jpg",
+      "/images/property2-2.jpg",
+      "/images/property2-3.jpg"
+    ],
+    "badges": ["NOVITÀ", "IN VENDITA"],
+    "featured": false,
+    "isNew": true,
+    "price": 850000,
+    "priceHidden": true,
+    "energyRating": "B"
+  },
+  {
+    "id": "3",
+    "title": "Attico di Lusso con Terrazza",
+    "address": "Corso Venezia 78, Milano, MI, Italia",
+    "city": "Milano",
+    "region": "Lombardia",
+    "propertyType": "Attico",
+    "contractType": "Vendita",
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "area": 200,
+    "coordinates": {
+      "lat": 45.4695,
+      "lng": 9.2030
+    },
+    "images": [
+      "/images/property3-1.JPEG",
+      "/images/property3-2.jpg",
+      "/images/property3-3.jpg"
+    ],
+    "badges": ["IN EVIDENZA", "CONVENZIONATI RESIDENTI BZ"],
+    "featured": true,
+    "isNew": false,
+    "price": 720000,
+    "priceHidden": true,
+    "energyRating": "C"
+  },
+  {
+    "id": "4",
+    "title": "Casa a Schiera Moderna",
+    "address": "Via Giuseppe Verdi 12, Bologna, BO, Italia",
+    "city": "Bologna",
+    "region": "Emilia-Romagna",
+    "propertyType": "Casa a Schiera",
+    "contractType": "Vendita",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "area": 150,
+    "coordinates": {
+      "lat": 44.4949,
+      "lng": 11.3426
+    },
+    "images": [
+      "/images/property4-1.jpg",
+      "/images/property4-2.jpg",
+      "/images/property4-3.jpg"
+    ],
+    "badges": ["IN VENDITA"],
+    "featured": false,
+    "isNew": false,
+    "price": 320000,
+    "priceHidden": false
+  },
+  {
+    "id": "5",
+    "title": "Loft Industriale Ristrutturato",
+    "address": "Via Torino 89, Torino, TO, Italia",
+    "city": "Torino",
+    "region": "Piemonte",
+    "propertyType": "Loft",
+    "contractType": "Vendita",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "area": 110,
+    "coordinates": {
+      "lat": 45.0703,
+      "lng": 7.6869
+    },
+    "images": [
+      "/images/property5-1.jpg",
+      "/images/property5-2.jpg",
+      "/images/property5-3.jpg"
+    ],
+    "badges": ["NOVITÀ", "IN VENDITA"],
+    "featured": false,
+    "isNew": true,
+    "price": 380000,
+    "priceHidden": false
+  },
+  {
+    "id": "6",
+    "title": "Appartamento Vista Mare",
+    "address": "Lungomare Caracciolo 15, Napoli, NA, Italia",
+    "city": "Napoli",
+    "region": "Campania",
+    "propertyType": "Appartamento",
+    "contractType": "Vendita",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "area": 95,
+    "coordinates": {
+      "lat": 40.8518,
+      "lng": 14.2681
+    },
+    "images": [
+      "/images/property6-1.jpeg",
+      "/images/property6-2.jpg",
+      "/images/property6-3.jpg"
+    ],
+    "badges": ["IN EVIDENZA", "IN VENDITA"],
+    "featured": true,
+    "isNew": false,
+    "price": 280000,
+    "priceHidden": true
+  },
+  {
+    "id": "7",
+    "title": "Casa Indipendente con Giardino",
+    "address": "Via Marconi 67, Roma, RM, Italia",
+    "city": "Roma",
+    "region": "Lazio",
+    "propertyType": "Casa Indipendente",
+    "contractType": "Vendita",
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "area": 180,
+    "coordinates": {
+      "lat": 41.9028,
+      "lng": 12.4964
+    },
+    "images": [
+      "/images/property1-1.jpg",
+      "/images/property1-2.jpg",
+      "/images/property1-3.jpg"
+    ],
+    "badges": ["IN VENDITA"],
+    "featured": false,
+    "isNew": false,
+    "price": 520000,
+    "priceHidden": true
+  },
+  {
+    "id": "8",
+    "title": "Bilocale Ristrutturato Centro",
+    "address": "Corso Garibaldi 34, Milano, MI, Italia",
+    "city": "Milano",
+    "region": "Lombardia",
+    "propertyType": "Appartamento",
+    "contractType": "Vendita",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "area": 75,
+    "coordinates": {
+      "lat": 45.4668,
+      "lng": 9.1905
+    },
+    "images": [
+      "/images/property2-1.jpg",
+      "/images/property2-2.jpg",
+      "/images/property2-3.jpg"
+    ],
+    "badges": ["NOVITÀ", "IN VENDITA"],
+    "featured": false,
+    "isNew": true,
+    "price": 340000,
+    "priceHidden": true
+  },
+  {
+    "id": "9",
+    "title": "Quadrilocale con Terrazza",
+    "address": "Via del Corso 156, Roma, RM, Italia",
+    "city": "Roma",
+    "region": "Lazio",
+    "propertyType": "Appartamento",
+    "contractType": "Vendita",
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "area": 140,
+    "coordinates": {
+      "lat": 41.9010,
+      "lng": 12.4807
+    },
+    "images": [
+      "/images/property3-1.JPEG",
+      "/images/property3-2.jpg",
+      "/images/property3-3.jpg"
+    ],
+    "badges": ["IN EVIDENZA", "IN VENDITA"],
+    "featured": true,
+    "isNew": false,
+    "price": 680000,
+    "priceHidden": true
+  },
+  {
+    "id": "10",
+    "title": "Mansarda Luminosa",
+    "address": "Via Dante 23, Firenze, FI, Italia",
+    "city": "Firenze",
+    "region": "Toscana",
+    "propertyType": "Mansarda",
+    "contractType": "Vendita",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "area": 85,
+    "coordinates": {
+      "lat": 43.7731,
+      "lng": 11.2560
+    },
+    "images": [
+      "/images/property4-1.jpg",
+      "/images/property4-2.jpg",
+      "/images/property1-3.jpg"
+    ],
+    "badges": ["IN VENDITA"],
+    "featured": false,
+    "isNew": false,
+    "price": 290000,
+    "priceHidden": true
+  },
+  {
+    "id": "11",
+    "title": "Villa con Piscina",
+    "address": "Via dei Pini 78, Bologna, BO, Italia",
+    "city": "Bologna",
+    "region": "Emilia-Romagna",
+    "propertyType": "Villa",
+    "contractType": "Vendita",
+    "bedrooms": 6,
+    "bathrooms": 4,
+    "area": 350,
+    "coordinates": {
+      "lat": 44.4937,
+      "lng": 11.3387
+    },
+    "images": [
+      "/images/property5-1.jpg",
+      "/images/property5-2.jpg",
+      "/images/property5-3.jpg"
+    ],
+    "badges": ["IN EVIDENZA", "CONVENZIONATI RESIDENTI BZ"],
+    "featured": true,
+    "isNew": false,
+    "price": 950000,
+    "priceHidden": true
+  },
+  {
+    "id": "12",
+    "title": "Appartamento Vista Lago",
+    "address": "Lungolago Europa 45, Como, CO, Italia",
+    "city": "Como",
+    "region": "Lombardia",
+    "propertyType": "Appartamento",
+    "contractType": "Vendita",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "area": 110,
+    "coordinates": {
+      "lat": 45.8081,
+      "lng": 9.0852
+    },
+    "images": [
+      "/images/property6-1.jpeg",
+      "/images/property6-2.jpg",
+      "/images/property6-3.jpg"
+    ],
+    "badges": ["NOVITÀ", "IN VENDITA"],
+    "featured": false,
+    "isNew": true,
+    "price": 420000,
+    "priceHidden": true
+  },
+  {
+    "id": "13",
+    "title": "Ufficio in Centro Direzionale",
+    "address": "Via Brera 12, Milano, MI, Italia",
+    "city": "Milano",
+    "region": "Lombardia",
+    "propertyType": "Ufficio",
+    "contractType": "Vendita",
+    "bedrooms": 0,
+    "bathrooms": 2,
+    "area": 160,
+    "coordinates": {
+      "lat": 45.4719,
+      "lng": 9.1897
+    },
+    "images": [
+      "/images/property1-1.jpg",
+      "/images/property2-1.jpg",
+      "/images/property3-2.jpg"
+    ],
+    "badges": ["IN VENDITA"],
+    "featured": false,
+    "isNew": false,
+    "price": 380000,
+    "priceHidden": true
+  },
+  {
+    "id": "14",
+    "title": "Trilocale Moderno",
+    "address": "Via San Marco 89, Venezia, VE, Italia",
+    "city": "Venezia",
+    "region": "Veneto",
+    "propertyType": "Appartamento",
+    "contractType": "Vendita",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "area": 105,
+    "coordinates": {
+      "lat": 45.4408,
+      "lng": 12.3155
+    },
+    "images": [
+      "/images/property4-1.jpg",
+      "/images/property4-2.jpg",
+      "/images/property1-2.jpg"
+    ],
+    "badges": ["IN VENDITA"],
+    "featured": false,
+    "isNew": false,
+    "price": 460000,
+    "priceHidden": true
+  },
+  {
+    "id": "15",
+    "title": "Casa a Schiera con Giardino",
+    "address": "Via della Pace 34, Torino, TO, Italia",
+    "city": "Torino",
+    "region": "Piemonte",
+    "propertyType": "Casa a Schiera",
+    "contractType": "Vendita",
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "area": 170,
+    "coordinates": {
+      "lat": 45.0732,
+      "lng": 7.6848
+    },
+    "images": [
+      "/images/property5-1.jpg",
+      "/images/property6-2.jpg",
+      "/images/property2-3.jpg"
+    ],
+    "badges": ["NOVITÀ", "IN VENDITA"],
+    "featured": false,
+    "isNew": true,
+    "price": 390000,
+    "priceHidden": true
+  },
+  {
+    "id": "16",
+    "title": "Loft Artistico",
+    "address": "Via dei Giubbonari 45, Roma, RM, Italia",
+    "city": "Roma",
+    "region": "Lazio",
+    "propertyType": "Loft",
+    "contractType": "Vendita",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "area": 90,
+    "coordinates": {
+      "lat": 41.8955,
+      "lng": 12.4823
+    },
+    "images": [
+      "/images/property3-1.JPEG",
+      "/images/property1-3.jpg",
+      "/images/property5-2.jpg"
+    ],
+    "badges": ["IN EVIDENZA", "IN VENDITA"],
+    "featured": true,
+    "isNew": false,
+    "price": 320000,
+    "priceHidden": true
+  },
+  {
+    "id": "17",
+    "title": "Appartamento Storico",
+    "address": "Piazza della Signoria 8, Firenze, FI, Italia",
+    "city": "Firenze",
+    "region": "Toscana",
+    "propertyType": "Appartamento",
+    "contractType": "Vendita",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "area": 125,
+    "coordinates": {
+      "lat": 43.7692,
+      "lng": 11.2558
+    },
+    "images": [
+      "/images/property6-1.jpeg",
+      "/images/property4-2.jpg",
+      "/images/property2-2.jpg"
+    ],
+    "badges": ["IN EVIDENZA", "CONVENZIONATI RESIDENTI BZ"],
+    "featured": true,
+    "isNew": false,
+    "price": 580000,
+    "priceHidden": true
+  }
+]

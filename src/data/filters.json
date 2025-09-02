@@ -1,0 +1,36 @@
+{
+  "cities": [
+    { "value": "all", "label": "Tutte le città" },
+    { "value": "milano", "label": "Milano" },
+    { "value": "roma", "label": "Roma" },
+    { "value": "firenze", "label": "Firenze" },
+    { "value": "bologna", "label": "Bologna" },
+    { "value": "torino", "label": "Torino" },
+    { "value": "napoli", "label": "Napoli" },
+    { "value": "venezia", "label": "Venezia" },
+    { "value": "como", "label": "Como" }
+  ],
+  "locations": [
+    { "value": "all", "label": "Tutte le località" },
+    { "value": "centro-storico", "label": "Centro Storico" },
+    { "value": "zona-residenziale", "label": "Zona Residenziale" },
+    { "value": "periferia", "label": "Periferia" },
+    { "value": "zona-commerciale", "label": "Zona Commerciale" }
+  ],
+  "propertyTypes": [
+    { "value": "all", "label": "Tutti i tipi" },
+    { "value": "appartamento", "label": "Appartamento" },
+    { "value": "villa", "label": "Villa" },
+    { "value": "casa-a-schiera", "label": "Casa a Schiera" },
+    { "value": "attico", "label": "Attico" },
+    { "value": "loft", "label": "Loft" },
+    { "value": "ufficio", "label": "Ufficio" },
+    { "value": "casa-indipendente", "label": "Casa Indipendente" },
+    { "value": "mansarda", "label": "Mansarda" }
+  ],
+  "contractTypes": [
+    { "value": "vendita", "label": "In Vendita" },
+    { "value": "affitto", "label": "In Affitto" },
+    { "value": "entrambi", "label": "Entrambi" }
+  ]
+}

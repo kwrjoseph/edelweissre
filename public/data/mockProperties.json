@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "title": "Appartamento Moderno in Centro",
+    "description": "Elegante appartamento nel cuore della città con vista panoramica e finiture di lusso. Completamente arredato con cucina moderna e balcone.",
+    "price": 320000,
+    "location": "Milano, Lombardia",
+    "image_url": "/images/property1.jpg",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "area_sqm": 85,
+    "property_type": "Appartamento"
+  },
+  {
+    "id": "2",
+    "title": "Villa di Campagna",
+    "description": "Splendida villa immersa nella campagna toscana con giardino privato, piscina e vista sulle colline. Perfetta per chi cerca tranquillità.",
+    "price": 750000,
+    "location": "Siena, Toscana",
+    "image_url": "/images/property2.png",
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "area_sqm": 250,
+    "property_type": "Villa"
+  },
+  {
+    "id": "3",
+    "title": "Attico di Lusso",
+    "description": "Prestigioso attico con terrazza panoramica, ascensore privato e finiture di altissimo livello. Vista mozzafiato sulla città.",
+    "price": 980000,
+    "location": "Roma, Lazio",
+    "image_url": "/images/property3.jpg",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "area_sqm": 180,
+    "property_type": "Attico"
+  },
+  {
+    "id": "4",
+    "title": "Casa Tradizionale in Pietra",
+    "description": "Affascinante casa in pietra completamente ristrutturata, situata in un borgo medievale. Combina charme storico e comfort moderni.",
+    "price": 450000,
+    "location": "Assisi, Umbria",
+    "image_url": "/images/property4.jpg",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "area_sqm": 140,
+    "property_type": "Casa"
+  },
+  {
+    "id": "5",
+    "title": "Loft Minimalista",
+    "description": "Moderno loft in zona residenziale con design minimalista, soffitti alti e grandi vetrate. Ideale per giovani professionisti.",
+    "price": 280000,
+    "location": "Torino, Piemonte",
+    "image_url": "/images/property5.jpeg",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "area_sqm": 70,
+    "property_type": "Loft"
+  }
+]
